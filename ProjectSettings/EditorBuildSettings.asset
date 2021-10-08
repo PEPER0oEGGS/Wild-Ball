@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: d5cdbfbf84175d04dbe51e003a3774ea
+  - enabled: 1
+    path: Assets/Scenes/WildBallLevels/Wild Ball 1.unity
+    guid: 56abd02d360ca414e9cd4b9d7c1ec683
+  - enabled: 1
+    path: Assets/Scenes/WildBallLevels/Wild Ball 2.unity
+    guid: f84d6f29f235b0045a18fd47a9ddd0a4
+  - enabled: 1
+    path: Assets/Scenes/WildBallLevels/Wild Ball 3.unity
+    guid: 3eac74890d15b474fa3e155e4e2c720e
+  - enabled: 1
+    path: Assets/Scenes/WildBallLevels/Wild Ball 4.unity
+    guid: 5e796178633e16a4586274ec375fa495
+  - enabled: 1
+    path: Assets/Scenes/WildBallLevels/Wild Ball 5.unity
+    guid: 59d848acecad19249a3881e597b826b3
+  m_configObjects: {}
